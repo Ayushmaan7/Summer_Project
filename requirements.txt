@@ -1,0 +1,13 @@
+opencv-python
+opencv-python-headless
+pytube
+pywhatkit
+twilio
+boto3
+Pillow
+geopy
+pyttsx3
+nltk
+pyautogui
+pynput
+requests
